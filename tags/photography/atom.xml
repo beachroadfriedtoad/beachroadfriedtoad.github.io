@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>photography on beach road fried toad</title>
+    <link>https://beachroadfriedtoad.github.io/tags/photography/</link>
+    <description>Recent content in photography on beach road fried toad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Oct 2023 09:46:45 +1100</lastBuildDate><atom:link href="https://beachroadfriedtoad.github.io/tags/photography/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Northdown Beach Video</title>
+      <link>https://beachroadfriedtoad.github.io/writing/northdown-beach-video/</link>
+      <pubDate>Wed, 25 Oct 2023 09:46:45 +1100</pubDate>
+      
+      <guid>https://beachroadfriedtoad.github.io/writing/northdown-beach-video/</guid>
+      <description>I installed the latest firmware udpate to my Sony a7iii (with much difficulty) to get the new intervalometer feature.
+Using it to try out a new video format idea I have had. Put simply, a series of timelapse sequences - all from the same scene. But the timelapses are short interval, around 1 second, longer than your average burst mode yet short enough to cover 10-20 seconds of action.
+Combining the nostalgic quality of photos and the immersing effect of video.</description>
+    </item>
+    
+  </channel>
+</rss>
