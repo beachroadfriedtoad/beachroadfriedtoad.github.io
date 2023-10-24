@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>early on beach road fried toad</title>
+    <link>https://beachroadfriedtoad.github.io/tags/early/</link>
+    <description>Recent content in early on beach road fried toad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Oct 2023 21:27:00 +1100</lastBuildDate><atom:link href="https://beachroadfriedtoad.github.io/tags/early/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post III</title>
+      <link>https://beachroadfriedtoad.github.io/writing/post-3/</link>
+      <pubDate>Tue, 24 Oct 2023 21:27:00 +1100</pubDate>
+      
+      <guid>https://beachroadfriedtoad.github.io/writing/post-3/</guid>
+      <description>You&amp;rsquo;d better believe it.</description>
+    </item>
+    
+    <item>
+      <title>Post 2</title>
+      <link>https://beachroadfriedtoad.github.io/writing/post-2/</link>
+      <pubDate>Tue, 24 Oct 2023 21:10:08 +1100</pubDate>
+      
+      <guid>https://beachroadfriedtoad.github.io/writing/post-2/</guid>
+      <description>This is real.</description>
+    </item>
+    
+    <item>
+      <title>Post no.1</title>
+      <link>https://beachroadfriedtoad.github.io/writing/post/</link>
+      <pubDate>Tue, 24 Oct 2023 20:45:47 +1100</pubDate>
+      
+      <guid>https://beachroadfriedtoad.github.io/writing/post/</guid>
+      <description>Just a big ol&amp;rsquo; test.</description>
+    </item>
+    
+  </channel>
+</rss>
