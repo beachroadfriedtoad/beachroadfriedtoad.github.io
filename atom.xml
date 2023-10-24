@@ -14,21 +14,26 @@
     
     <item>
       <title>Northdown Beach Video</title>
-      <link>https://beachroadfriedtoad.github.io/writing/northdown-beach-video/</link>
+      <link>https://beachroadfriedtoad.github.io/writing/20231026-northdown-beach-video/</link>
       <description>&lt;p&gt;I installed the latest firmware udpate to my Sony a7iii (with much difficulty) to get the new intervalometer feature.&lt;/p&gt;
 &lt;p&gt;Using it to try out a new video format idea I have had. Put simply, a series of timelapse sequences - all from the same scene. But the timelapses are short interval, around 1 second, longer than your average burst mode yet short enough to cover 10-20 seconds of action.&lt;/p&gt;
-&lt;p&gt;Combining the nostalgic quality of photos and the immersing effect of video.&lt;/p&gt;
+&lt;p&gt;Combining the nostalgic quality of photos and the immersive effect of video.&lt;/p&gt;
 &lt;p&gt;For this video the intervalometer was set to 1 second intervals for 20 seconds.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=50MWNmbhlhE&#34;&gt;https://www.youtube.com/watch?v=50MWNmbhlhE&lt;/a&gt;&lt;/p&gt;
+
+ 
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/50MWNmbhlhE?si=mmsMnTJplRJ98bym&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
 </description>
       <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
-      <guid>https://beachroadfriedtoad.github.io/writing/northdown-beach-video/</guid>
+      <guid>https://beachroadfriedtoad.github.io/writing/20231026-northdown-beach-video/</guid>
       <pubDate>Wed, 25 Oct 2023 09:46:45 +1100</pubDate>
     </item>
     
     <item>
       <title>About this page</title>
-      <link>https://beachroadfriedtoad.github.io/writing/about/</link>
+      <link>https://beachroadfriedtoad.github.io/writing/20231025-about/</link>
       <description>&lt;p&gt;Beach Road Fried Toad.&lt;/p&gt;
 &lt;p&gt;This is my corner of the internet. A place which isn&amp;rsquo;t social media to leave whatever I have been working on or doing, in a format which lends itself to archive more than attention.&lt;/p&gt;
 &lt;p&gt;Video, photo, family, home, travels, food, music, projects – anything really.&lt;/p&gt;
@@ -36,38 +41,8 @@
 &lt;p&gt;by easy.&lt;/p&gt;
 </description>
       <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
-      <guid>https://beachroadfriedtoad.github.io/writing/about/</guid>
+      <guid>https://beachroadfriedtoad.github.io/writing/20231025-about/</guid>
       <pubDate>Wed, 25 Oct 2023 09:43:10 +1100</pubDate>
-    </item>
-    
-    <item>
-      <title>Post III</title>
-      <link>https://beachroadfriedtoad.github.io/writing/post-3/</link>
-      <description>&lt;p&gt;You&amp;rsquo;d better believe it.&lt;/p&gt;
-</description>
-      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
-      <guid>https://beachroadfriedtoad.github.io/writing/post-3/</guid>
-      <pubDate>Tue, 24 Oct 2023 21:27:00 +1100</pubDate>
-    </item>
-    
-    <item>
-      <title>Post 2</title>
-      <link>https://beachroadfriedtoad.github.io/writing/post-2/</link>
-      <description>&lt;p&gt;This is real.&lt;/p&gt;
-</description>
-      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
-      <guid>https://beachroadfriedtoad.github.io/writing/post-2/</guid>
-      <pubDate>Tue, 24 Oct 2023 21:10:08 +1100</pubDate>
-    </item>
-    
-    <item>
-      <title>Post no.1</title>
-      <link>https://beachroadfriedtoad.github.io/writing/post/</link>
-      <description>&lt;p&gt;Just a big ol&amp;rsquo; test.&lt;/p&gt;
-</description>
-      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
-      <guid>https://beachroadfriedtoad.github.io/writing/post/</guid>
-      <pubDate>Tue, 24 Oct 2023 20:45:47 +1100</pubDate>
     </item>
     
   </channel>
